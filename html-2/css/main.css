@@ -1,0 +1,19 @@
+h2{
+    color: red;
+}
+
+.home-title{
+    color: antiquewhite;
+}
+
+.home-subtitle{
+    color: brown;
+}
+
+.nav-link{
+    color: limegreen;
+}
+
+#nav-link-id{
+    color: rgb(202, 79, 122);
+}
